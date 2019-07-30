@@ -7,7 +7,7 @@ Raft is a consensus algorithm designed as an alternative to Paxos. It was meant 
 * Janhavi Dahihande (013732030)
 * Pratik Bhandarkar (013735748)
 * Kruti Thukral (012586041)
-* Nishtha Aatrey (013006292)
+* Nishtha Atrey (013006292)
 
 # Link to the research paper:
 https://web.stanford.edu/~ouster/cgi-bin/papers/raft-atc14
